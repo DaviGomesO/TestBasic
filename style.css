@@ -1,5 +1,25 @@
-/*id serve apenas para quando precisamos identificar uma única TAG, ja a class serve para identificar várias que irão assumir um mesmo estilo.*/
+/*id serve apenas para quando precisamos identificar uma única TAG, ja a class serve para identificar várias que irão assumir um mesmo estilo.
+
+ID deve ser único.
+*/
+
 html, body {
   height: 100%;
   width: 100%;
+}
+
+.myTag {
+  color: red;
+}
+
+#divPai {
+  background-color: red;
+  height: 400px;
+  width: 400px;
+}
+
+#divFilha {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
 }
