@@ -16,10 +16,28 @@ html, body {
   background-color: red;
   height: 400px;
   width: 400px;
+  display: flex;
 }
 
 #divFilha {
   background-color: blue;
   height: 200px;
   width: 200px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.myFont {
+  font-family: Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  color: green;
+}
+
+.myFont:hover {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 35px;
+  font-weight: 700;
+  color: blue;
+  transition: 1s;
 }
