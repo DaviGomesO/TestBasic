@@ -1,3 +1,4 @@
+/*id serve apenas para quando precisamos identificar uma única TAG, ja a class serve para identificar várias que irão assumir um mesmo estilo.*/
 html, body {
   height: 100%;
   width: 100%;
