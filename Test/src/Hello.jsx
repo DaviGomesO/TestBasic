@@ -1,5 +1,10 @@
 function Hello(props) {
-  return <p> Hello {props.name}! </p>;
+  return (
+    <div>
+      <p> Olá, {props.name}! </p>
+      {props.children}
+    </div>
+  );
 }
 
 export default Hello;
