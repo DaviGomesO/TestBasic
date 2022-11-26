@@ -15,3 +15,26 @@ body {
 #Ola {
   background-color: red;
 }
+
+/*
+Style in document Counter.jsx
+*/
+
+.btn {
+  border: none;
+  padding: 10px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background .3s;
+  border-radius: 5px;
+}
+
+.btn-count{
+  position: relative;
+}
+
+.btn-reset {
+  position: static;
+  margin-left: 10px;
+  color: red;
+}
