@@ -2,7 +2,7 @@
 
 Testes com HTML, CSS e JavaScript.
 
-# Passos
+## Passos
 
 - Criando projeto React e atrelando ao códido anterior.
 
@@ -12,6 +12,6 @@ Testes com HTML, CSS e JavaScript.
 
 Tests with HTML, CSS and JavaScript.
 
-# steps
+## Steps
 
 - Creating React project and linking to the previous code.
