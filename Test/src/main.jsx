@@ -6,6 +6,6 @@ import App from './App';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
-    <Hello />
+    <Hello name="Davi" />
   </React.StrictMode>
 );
